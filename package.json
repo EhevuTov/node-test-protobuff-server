@@ -1,0 +1,27 @@
+{
+  "name": "node-test-protobuff-server",
+  "version": "1.0.0",
+  "description": "a protobuff test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EhevuTov/node-test-protobuff-server.git"
+  },
+  "keywords": [
+    "protobuff",
+    "test",
+    "server"
+  ],
+  "author": "James Gosnell",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/EhevuTov/node-test-protobuff-server/issues"
+  },
+  "homepage": "https://github.com/EhevuTov/node-test-protobuff-server",
+  "dependencies": {
+    "protobufjs": "^4.0.0-b2"
+  }
+}
